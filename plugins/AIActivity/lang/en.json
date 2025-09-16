@@ -1,5 +1,6 @@
 {
   "AIActivity": {
+    "AIActivity": "AI Activity",
     "PluginDescription": "Reports about AI agentic bots activity."
   }
 }

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<result>
+	<nb_visits_ai_agents>3</nb_visits_ai_agents>
+	<nb_uniq_visitors_ai_agents>2</nb_uniq_visitors_ai_agents>
+	<nb_actions_ai_agents>6</nb_actions_ai_agents>
+	<max_actions_ai_agents>5</max_actions_ai_agents>
+	<sum_visit_length_ai_agents>2</sum_visit_length_ai_agents>
+</result>
