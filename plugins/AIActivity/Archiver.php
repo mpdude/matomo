@@ -11,8 +11,7 @@ declare(strict_types=1);
 
 namespace Piwik\Plugins\AIActivity;
 
-use Piwik\Plugin;
-
-class AIActivity extends Plugin
+class Archiver extends \Piwik\Plugin\Archiver
 {
+    public const NUMERIC_RECORD_PREFIX = 'AIActivity_';
 }
