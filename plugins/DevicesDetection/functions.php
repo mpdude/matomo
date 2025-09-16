@@ -149,12 +149,14 @@ function getClientTypeMapping()
         4 => 'mediaplayer',
         5 => 'mobile app',
         6 => 'pim',
+        7 => 'ai agent',
     ];
 }
 
 function getClientTypeLabel($label)
 {
     $translations = [
+        'ai agent'    => 'DevicesDetection_AIAgent',
         'browser'     => 'DevicesDetection_ColumnBrowser',
         'library'     => 'DevicesDetection_Library',
         'feed reader' => 'DevicesDetection_FeedReader',
